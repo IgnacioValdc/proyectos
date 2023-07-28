@@ -24,5 +24,5 @@ El gestor de contraseñas permite crear 1 o mas usuarios, permitiendo guardar su
     * Lista las entradas en la bodega de claves para borrar, al seleccionar se le preguntara al usuario si esta seguro de eliminar la entrada.
     * Permite seleccionar una entrada y cambiar su clave.
 
-`**Anexo**`: La 3ra opción sera eliminada proximamente
+`Anexo`: La 3ra opción sera eliminada proximamente
 
