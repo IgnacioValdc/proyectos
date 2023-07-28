@@ -1,6 +1,6 @@
 # Gestor de contraseñas
 
-# Instalación
+## Instalación
 
 1.- Clona el proyecto:
 ```git clone https://github.com/IgnacioValdc/proyectos```
