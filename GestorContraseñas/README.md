@@ -3,7 +3,7 @@
 # Instalación
 
 1.- Clona el proyecto:
-```git clone https://github.com/IgnacioValdc/IgnacioValdc/tree/master/GestorContraseñas```
+```git clone https://github.com/IgnacioValdc/proyectos```
 
 2.- Abre una terminal en el directorio e instala las dependencias:
 ```npm install```
