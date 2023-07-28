@@ -1,0 +1,21 @@
+{
+  "name": "gestor",
+  "version": "1.0.0",
+  "description": "Herramienta de terminal para guardar contraseñas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist",
+    "start": "node app.js"
+  },
+  "author": "Char",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^3.0.0",
+    "colors": "^1.4.0",
+    "crypto-js": "^4.1.1",
+    "inquirer": "^9.1.5",
+    "uuidv4": "^6.2.13"
+  }
+}
